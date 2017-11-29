@@ -1,0 +1,8 @@
+{
+    "name": "GestionProjet",
+    "display": "browser",
+    "default_locale": "fr",
+    "related_applications": [{
+      "platform": "web"
+    }]
+  }
